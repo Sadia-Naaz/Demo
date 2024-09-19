@@ -1,0 +1,1 @@
+//Q:Difference between closures and scope.
